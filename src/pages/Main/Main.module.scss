@@ -1,0 +1,31 @@
+.markdown {
+    width: 80% !important;
+    position: relative !important;
+    overflow: scroll;
+    margin-bottom: 60px;
+}
+
+.container {
+    width: 80vw;
+    overflow: auto;
+    height: 80vh;
+}
+
+.container::-webkit-scrollbar {
+    width: 0.5em;
+    /* Adjust as needed */
+    display: none;
+}
+
+.container::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}
+
+/* Hide scrollbar for Firefox */
+.container {
+    scrollbar-width: none;
+}
+
+.container::-webkit-scrollbar-track {
+    background-color: transparent;
+}

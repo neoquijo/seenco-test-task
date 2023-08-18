@@ -1,4 +1,4 @@
-# React App with Authentication
+export const readme = `# React App with Authentication
 
 This is a simple React application that demonstrates authentication and routing using Redux. The app has several pages: home, login, news, and profile.
 
@@ -31,13 +31,13 @@ The application uses Redux to manage state. The authentication status, user info
 ## run with NPM
 
 1. Clone the repository.
-2. Navigate to the project directory and run `npm install` to install the dependencies. also you have to run npm install in the ./src/ockAPI dir
-3. Run `npm start` to start the development server.
+2. Navigate to the project directory and run \`npm install\` to install the dependencies. also you have to run npm install in the ./src/ockAPI dir
+3. Run \`npm start\` to start the development server.
 4. Open your browser and go to [http://localhost:3000]) to view the app.
 
 ## How to Run
 
 1. Clone the repository.
-2. Navigate to the project directory and run `docker-compose up`
+2. Navigate to the project directory and run \`docker - compose up\`
 
-Feel free to explore and improve upon this application as needed.
+Feel free to explore and improve upon this application as needed.`
