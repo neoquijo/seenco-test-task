@@ -35,7 +35,7 @@ The application uses Redux to manage state. The authentication status, user info
 3. Run `npm start` to start the development server.
 4. Open your browser and go to [http://localhost:3000]) to view the app.
 
-## How to Run
+## run with Docker
 
 1. Clone the repository.
 2. Navigate to the project directory and run `docker-compose up`
