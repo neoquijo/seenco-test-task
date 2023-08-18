@@ -1,0 +1,4 @@
+/build
+node_modules
+.idea
+src/mockAPI/node_modules
